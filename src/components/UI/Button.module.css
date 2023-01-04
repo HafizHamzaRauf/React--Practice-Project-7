@@ -1,0 +1,14 @@
+.btn {
+  padding: 1rem 2rem;
+  background-color: chocolate;
+  border: none;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  width: 100%;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.btn:hover {
+  cursor: pointer;
+  background-color: rgb(236, 128, 51);
+}
